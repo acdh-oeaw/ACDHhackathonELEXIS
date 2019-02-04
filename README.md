@@ -3,7 +3,15 @@ The repo containing your task for the first hackathon in the ACDH hackathon seri
 
 ## Your task
 
-...will be announced here on Feb 04, 2019 at 2 p.m. CET.
+The first hack of the ACDH virtual hackathon series focuses on Open Data that is of interest for the [ELEXIS](https://elex.is/) project. In this hack, your task is to develop a creative mode of processing a lexicographical dataset. It is your decision what to do with the data: You could enrich it, visualize it, do statistical analysis, integrate/aggregate it with other resources (e.g. LOD) or develop an innovative application to explore it. 
+
+The dataset to be worked on in this task is the *Digital Dictionary of Tunis Arabic*. This set of [XML/TEI](http://www.tei-c.org/guidelines/) data was not only built on data from the corpus of spoken language that was compiled in the [TuniCo](https://www.oeaw.ac.at/acdh/projects/tunico/) project, but also on a range of additional sources: data elicited from complementary interviews with young Tunisians and lexical material taken from various published historical sources dating from the middle of the 20th century and earlier. Several frontends to this dataset already exist. To get an overview, have a look at this website:
+https://tunico.acdh.oeaw.ac.at/about_dictionary.html
+
+The dataset is available for download here:
+https://id.acdh.oeaw.ac.at/uuid/175b8cdf-5d04-f4d3-a778-67910aa8fd37
+
+It is a single XML file following the [TEI schema](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/). It consists of two parts. The first part contains in a dictionary with each term providing basic grammatical information as well as meanings in three languages (English, German & French). Some terms are illustrated with sample phrases and/or links to the second part of the dictionary. The second part contains usage examples taken from the spoken language. Each example is a short sentence with English, German & French translations. 
 
 ## What your submission should contain
 
